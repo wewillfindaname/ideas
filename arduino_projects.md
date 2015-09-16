@@ -8,3 +8,7 @@ computer, this would be a much more smaller model of this ![project](http://40.m
 Activity counter
 ----------------
 This project uses a segmented display to show some count that the device reads from some of its serial ports,
+
+Lock pc with phone NFC sensor
+-----------------------------
+Just had this idea to automatical lock my pc just by taking my phone with me.
